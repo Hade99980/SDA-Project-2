@@ -1,5 +1,9 @@
 # SDA-Project-2
-This dataset appears to contain transactional data from a retail store, covering sales details across various branches and product lines. Here is a breakdown of the dataset columns and potential insights:
+This dataset appear
+
+https://github.com/user-attachments/assets/ee75aada-d591-4cda-b96b-7937e4b49709
+
+s to contain transactional data from a retail store, covering sales details across various branches and product lines. Here is a breakdown of the dataset columns and potential insights:
 
 ### Dataset Columns:
 1. **Branch**: Denotes the branch where the transaction occurred (e.g., A, C).
@@ -33,6 +37,10 @@ This dataset appears to contain transactional data from a retail store, covering
    - Categories like Health and Beauty, Electronics, and Sports and Travel appear in the dataset. Sales trends by product line could reveal the best-performing categories.
 
 5. **Unit Price vs. Quantity**:
+
+https://github.com/user-attachments/assets/efea54bd-8492-4c3e-8456-d71ee2cbd268
+
+
    - Higher unit prices might correlate with lower quantities purchased, while lower unit prices might result in bulk buying.
 
 6. **Payment Preferences**:
